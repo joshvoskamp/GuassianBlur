@@ -6,7 +6,7 @@ A simple command line tool written in C++ for applying the Guassian Blur Algorit
 
     serial.x 1 calibrate.ppm out.ppm
 
-<img src="Example.png" width="75%" height="75%"/>
+<img src="Example.PNG" width="75%" height="75%"/>
 
 ### Compilation
 
